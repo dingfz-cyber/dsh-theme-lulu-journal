@@ -1,0 +1,7 @@
+tmp/
+release/
+node_modules/
+preview/native-*.png
+design-qa.md
+scripts/read-native.mjs
+assets/*prompt.txt
